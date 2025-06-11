@@ -1,5 +1,3 @@
-#!/bin/bash
+  #!/bin/bash
    # This script prints the absolute path of the current working directory
-
-   echo basics
    pwd
